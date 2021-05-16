@@ -1,5 +1,5 @@
 # redm_bandana
-RedM - VORP Bandanas for Males and Females
+RedM - VORP Bandanas for Males and Females (updated senglar_bandana script to work for VORP)
 
 The Bandana is a usable item (image included for your items inventory)
 
